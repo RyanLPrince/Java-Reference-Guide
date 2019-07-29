@@ -1,7 +1,7 @@
 # Introduction to Java
 
 1) [What_is_Java.md]: https://github.com/RyanLPrince/Java-Reference-Guide/blob/master/Intro_to_Java/What_is_Java.md "What_is_Java.md"
-[What_is_Java.md] explains the different types of Java applications that can be developed, the different editions of java and the features of java. <br> <br>
+[What_is_Java.md] An explanation of the different types of Java applications that can be developed, the different editions of Java and features of Java. <br> <br>
 2) [Java_as_a_Platform.md]: https://github.com/RyanLPrince/Java-Reference-Guide/blob/master/Intro_to_Java/Java_as_a_Platform.md "Java_as_a_Platform.md"
 [Java_as_a_Platform.md] explains the function of JRE, JDK and the JVM. <br><br>
 3) [Object_Oriented_Programming.md]: https://github.com/RyanLPrince/Java-Reference-Guide/blob/master/Intro_to_Java/Object_Oriented_Programming.md "Object_Oriented_Programming.md" 
