@@ -16,7 +16,7 @@ Since Java has a runtime environment (JRE) and API, it is refered to as a platfo
 
 Web applications are distributed applications that communicate with clients through a network or server. Web browsers are a common example of a client that access web applications that run on server side. Web applicaitions offer the ability to update and maintain an application without deploying and installing software on every client.
 
-A web server is a piece of software that recieves and processes client requests and sends an appropriate response back to the client. Web servers runs on some physical machine and listens to client requests on specific ports. A web client is a software that helps in communicating with the server. Some of the most widely used web clients are web browsers that request services from the server (through URL). Web client takes care of creating a request and sending it to server and then parsing the server response and present it to the user.
+A web server is a piece of software or hardware that recieves and processes client requests and sends an appropriate response back to the client. Web servers runs on some physical machine and listens to client requests on specific ports. A web client is a software that helps in communicating with the server. Some of the most widely used web clients are web browsers that request services from the server (through URL). Web client takes care of creating a request and sending it to server and then parsing the server response and present it to the user.
 
 3) Enterprise Application <br>
 An application that is **distributed** in nature, such as a banking application. <br> 
