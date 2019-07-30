@@ -10,7 +10,7 @@ Since Java has a runtime environment (JRE) and API, it is refered to as a platfo
 ## Types of Java Application
 
 1) Standalone Application <br>
-'Desktop applications'. Traditional software that needs to be installed on every machine. 
+'Desktop applications'. Traditional software that needs to be installed on each client system. The access to the application is limited only to the systems that have the application installed. Standalone applications can be adventageous when there is no need of networking (application is needed only on a single system) or for hardware support like barcode printers, webcam, biometric devices, LED Panels, etc.
 
 2) Web Application <br>
 An application that **runs on the server side** and creates a **dynamic page** is called a web application. <br>
