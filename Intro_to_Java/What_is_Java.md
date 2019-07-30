@@ -11,7 +11,13 @@ Since Java has a runtime environment (JRE) and API, it is refered to as a platfo
 'Desktop applications'. Traditional software that needs to be installed on each client system. Access to the application is limited to the systems that have the application installed. Standalone applications can be adventageous when there is no need for networking (application is needed only on a single system) or for hardware support such as barcode printers, webcams, biometric devices, LED Panels, etc.
 
 2) Web Application <br>
-Web applications are distributed by nature, meaning that they are programs that run on more than one computer and communicate through a network or server. Usually, web applications are accessed via a web browser because of the ease of using the browser as a user client. Web applicaitions are advantageous because they offer the ability to update and maintain the application without deploying and installing software on every client e.g. e-mail, online retail sales, discussion boards, online banking etc. 
+**Client:** Computer hardware or software that accesses a service made available by a server. <br>
+**Server:** Device that provides services to clients.
+
+
+Web applications are distributed applications that communicate with clients through a network or server. 
+
+Usually, web applications are accessed via a web browser because of the ease of using the browser as a user client. Web applicaitions are advantageous because they offer the ability to update and maintain the application without deploying and installing software on every client e.g. e-mail, online retail sales, discussion boards, online banking etc. 
 
 A web server is a software that can process the client request and send the response back to the client. For example, Apache is one of the most widely used web server. Web servers runs on some physical machine and listens to client requests on specific port.
 
