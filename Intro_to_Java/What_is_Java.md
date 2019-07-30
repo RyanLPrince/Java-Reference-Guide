@@ -8,23 +8,15 @@ Since Java has a runtime environment (JRE) and API, it is refered to as a platfo
 ## Types of Java Application
 
 1) Standalone Application <br>
-'Desktop applications'. Traditional software that needs to be installed on each client system. Access to the application is limited to the systems that have the application installed. Standalone applications can be adventageous when there is no need for networking (application is needed only on a single system) or for hardware support such as barcode printers, webcams, biometric devices, LED Panels, etc.
+'Desktop applications'. Traditional software that needs to be installed on each client system. Access to the application is limited to the systems that have the application installed. Standalone applications can be advantageous when there is no need for networking (application is needed only on a single system) or for hardware support such as barcode printers, webcams, biometric devices, LED Panels, etc.
 
 2) Web Application <br>
 **Client:** Computer hardware or software that accesses a service made available by a server. <br>
 **Server:** Device that provides services to clients.
 
+Web applications are distributed applications that communicate with clients through a network or server. Web browsers are a common example of a client that access web applications that run on server side. Web applicaitions offer the ability to update and maintain an application without deploying and installing software on every client.
 
-Web applications are distributed applications that communicate with clients through a network or server. 
-
-Usually, web applications are accessed via a web browser because of the ease of using the browser as a user client. Web applicaitions are advantageous because they offer the ability to update and maintain the application without deploying and installing software on every client e.g. e-mail, online retail sales, discussion boards, online banking etc. 
-
-A web server is a software that can process the client request and send the response back to the client. For example, Apache is one of the most widely used web server. Web servers runs on some physical machine and listens to client requests on specific port.
-
-A web client is a software that helps in communicating with the server. Some of the most widely used web clients are Firefox, Google Chrome, Safari etc. When we request something from server (through URL), web client takes care of creating a request and sending it to server and then parsing the server response and present it to the user.
-
-An application that **runs on the server side** and creates a **dynamic page** is called a web application. <br>
-Currently, Servlet, JSP, Struts, Spring, Hibernate, JSF, etc. are technologies used for creating web applications in Java.
+A web server is a piece of software that recieves and processes client requests and sends an appropriate response back to the client. Web servers runs on some physical machine and listens to client requests on specific ports. A web client is a software that helps in communicating with the server. Some of the most widely used web clients are web browsers that request services from the server (through URL). Web client takes care of creating a request and sending it to server and then parsing the server response and present it to the user.
 
 3) Enterprise Application <br>
 An application that is **distributed** in nature, such as a banking application. <br> 
